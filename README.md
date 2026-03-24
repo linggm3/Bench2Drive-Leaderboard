@@ -52,6 +52,7 @@ Last updated: 04. March. 2026
 | [VDRive](https://arxiv.org/abs/2510.15446)                                                                                       |   66.25   |   50.51   | 2025 |    -     |
 | [RAP-ResNet](https://arxiv.org/abs/2510.04333)                                                                                   |   66.42   |   37.27   | 2026 |   ICLR   |
 | [CAPS](https://arxiv.org/abs/2503.01650)                                                                                         |   66.76   |   52.87   | 2025 |    -     |
+| [SafeDrive](https://spa-junghokim.github.io/SafeDrive-Page/)                                                                     |   66.77   |   42.40   | 2026 |   CVPR   |
 | [DriveMamba](https://arxiv.org/abs/2602.13301)                                                                                   |   66.82   |   37.73   | 2026 |   ICLR   |
 | [SNG](https://zhihua-hua.github.io/NavigationDrive-web/static/NavigationDrive.pdf)                                               |   67.17   |   35.90   | 2025 |    -     |
 | [Diffusion-Phy](https://www.sciencedirect.com/science/article/pii/S0031320326000245)                                             |   67.49   |   36.51   | 2026 |    PR    |
