@@ -69,7 +69,7 @@ Last updated: 04. March. 2026
 | [GuideFlow](https://arxiv.org/abs/2511.18729)                                                                                    |   75.21   |   51.36   | 2025 |    -     |
 | [DiffusionDrive-temp](https://arxiv.org/abs/2411.15139)                                                                          |   77.68   |   52.72   | 2025 |   CVPR   |
 | [ORION](https://arxiv.org/abs/2503.19755)                                                                                        |   77.74   |   54.62   | 2025 |   ICCV   |
-| [SpaceDrive+](https://arxiv.org/abs/2512.10719)                                                                                  |   78.02   |   55.11   | 2025 |    -     |
+| [SpaceDrive+](https://arxiv.org/abs/2512.10719)                                                                                  |   78.02   |   55.11   | 2025 |   CVPR  |
 | [MindDrive](https://arxiv.org/abs/2512.13636)                                                                                    |   78.04   |   55.09   | 2025 |   CVPR   |
 | [PGS](https://openreview.net/forum?id=PZqII8EoFG&referrer=%5Bthe%20profile%20of%20Yi%20Huang%5D(%2Fprofile%3Fid%3D~Yi_Huang20))  |   78.08   |   48.64   | 2025 | NeurIPS  |
 | [Expert-VADv2](https://arxiv.org/abs/2511.11740)                                                                                 |   78.18   |   58.34   | 2026 |   AAAI   |
@@ -87,7 +87,7 @@ Last updated: 04. March. 2026
 | [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                  |   86.87   |   72.27   | 2026 |   ICLR   |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                  |   87.1    |   71.4    | 2025 |    -     |
 | [AutoMoT](https://arxiv.org/abs/2603.14851)                                                                                      |   87.34   |   70.00   | 2026 |    -     |
-| [BevAD](https://arxiv.org/abs/2603.15185)                                                                                        |   88.11   |   72.73   | 2026 | Workshop |
+| [BevAD](https://arxiv.org/abs/2603.15185)                                                                                        |   88.11   |   72.73   | 2026 |   CVPRF  |
 | [RaWMPC](https://arxiv.org/abs/2602.23259)                                                                                       |   88.31   |   70.48   | 2026 |    -     |
 | [DynVLA](https://arxiv.org/abs/2603.11041)                                                                                       |   88.34   |   72.73   | 2026 |    -     |
 | [KnowVal](https://arxiv.org/abs/2512.20299)                                                                                      |   88.42   |   69.03   | 2025 |    -     |
