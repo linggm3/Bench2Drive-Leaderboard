@@ -87,6 +87,7 @@ Last updated: 04. March. 2026
 | [BridgeDrive](https://arxiv.org/abs/2509.23589)                                                                                  |   86.87   |   72.27   | 2026 |   ICLR   |
 | [DiffRefiner](https://arxiv.org/abs/2511.17150)                                                                                  |   87.1    |   71.4    | 2025 |    -     |
 | [AutoMoT](https://arxiv.org/abs/2603.14851)                                                                                      |   87.34   |   70.00   | 2026 |    -     |
+| [CriticVLA](https://arxiv.org/abs/2604.27366)                                                                                    |   88.02   |   73.33   | 2026 |    -     |
 | [BevAD](https://arxiv.org/abs/2603.15185)                                                                                        |   88.11   |   72.73   | 2026 |   CVPRF  |
 | [RaWMPC](https://arxiv.org/abs/2602.23259)                                                                                       |   88.31   |   70.48   | 2026 |    -     |
 | [DynVLA](https://arxiv.org/abs/2603.11041)                                                                                       |   88.34   |   72.73   | 2026 |    -     |
